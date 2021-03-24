@@ -10,3 +10,4 @@ D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios 
 D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.dll
 D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.pdb
 D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.genruntimeconfig.cache
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.csprojAssemblyReference.cache
