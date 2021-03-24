@@ -1,0 +1,12 @@
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.exe
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.deps.json
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.runtimeconfig.json
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.runtimeconfig.dev.json
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.dll
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\bin\Debug\netcoreapp3.1\SOLID_GRASP.pdb
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.AssemblyInfoInputs.cache
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.AssemblyInfo.cs
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.csproj.CoreCompileInputs.cache
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.dll
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.pdb
+D:\javila\Universidad\Fundamentos de diseño de software\Actividad 2\Principios SOLID Y Patrones GRASP\SOLID_GRASP\obj\Debug\netcoreapp3.1\SOLID_GRASP.genruntimeconfig.cache
